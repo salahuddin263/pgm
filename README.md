@@ -1,7 +1,6 @@
 <!DOCTYPE>
 <html>
 <head>
-<title> Technical Support </title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
